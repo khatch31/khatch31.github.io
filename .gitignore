@@ -4,3 +4,6 @@ docs/files/.DS_Store
 docs/_site
 docs/_layouts/.DS_Store
 docs/_includes/.DS_Store
+docs/_posts/.DS_Store
+.remote-sync.json
+docs/.remote-sync.json
