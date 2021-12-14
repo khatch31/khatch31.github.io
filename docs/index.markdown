@@ -11,9 +11,61 @@ scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
 
 <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/>
 
-I am an undergraduate student at Stanford University majoring in computer science.
+I am an undergraduate and coterminal master's student at Stanford University studying Computer Science. I am heavily involved in artificial intelligence research and I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
+<!-- I am specifically interested in reinforcement learning.  -->
+My interests lie primarily within reinforcement learning (RL) research.
+<!-- Currently, my primary research interests lie in answering the following questions:
+ -->
+I am especially fascinated with answering the following questions:
+  - How can we make RL agents that can generalize quickly and efficiently to new tasks?
+  - How can we make RL algorithms that leverage prior knowledge about a task during training instead of training from *tabula rasa?*
 
-My main research interests are in how to make reinforcement learning algorithms that can generalize quickly to new tasks and that leverage prior knowledge into their training instead of training from *tabula rasa.*
+Currently, I am conducting research in the Stanford IRIS Lab under Dr. Chelsea Finn, where I am developing an offline RL algorithm for heterogeneous datasets that don't have reward labels. I previously conducted research in the Stanford Intelligent Systems Laboratory (SISL) under Dr. Mykel Kochenderfer, where I conducted research on using RL for autonomous vehicle safety and control. I also worked as a research intern on a collaborative project between SISL and the Johns Hopkins University Applied Physics Laboratory (APL)  on developing RL based methods to defend industrial control systems against cyber attacks.
+
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+    <div class="row">
+        <div class="column">
+            <h5>Research Interests</h5>
+            <p>
+              <ul>
+                <li>Leveraging Prior Knowledge in RL</li>
+                <li>Generalization in RL</li>
+                <li>Offline RL</li>
+                <li>Robot Learning</li>
+              </ul>
+            </p>
+        </div>
+        <div class="column">
+            <h5>Education</h5>
+            <p>
+              <ul>
+                <li>M.S. in Computer Science, Stanford University, 2021 - Present</li>
+                <li>B.S. in Computer Science, Stanford University, 2017 - Present</li>
+              </ul>
+            </p>
+        </div>
+    </div>
+ </body>
+</html>
 
 
 <a name="Publications"> </a>
