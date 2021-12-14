@@ -9,7 +9,8 @@ scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
 ---
 **[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [CV](./files/CV.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
-<img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/>
+<!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/> -->
+<img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="275"/>
 
 I am an undergraduate and coterminal master's student at Stanford University studying Computer Science. I am heavily involved in artificial intelligence research and I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
 <!-- I am specifically interested in reinforcement learning.  -->
