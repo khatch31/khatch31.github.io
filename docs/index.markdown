@@ -7,7 +7,7 @@ layout: default
 irosVideoId: 1wag5m_uDBRPMmNiLkZLFNsktBMZdmMVH/preview
 scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
 ---
-**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [CV](./files/CV.pdf){:target="_blank"}**
+**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [CV](./files/CV.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
 <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/>
 
@@ -20,7 +20,7 @@ I am especially fascinated with answering the following questions:
   - How can we make RL agents that can generalize quickly and efficiently to new tasks?
   - How can we make RL algorithms that leverage prior knowledge about a task during training instead of training from *tabula rasa?*
 
-Currently, I am conducting research in the Stanford IRIS Lab under Dr. Chelsea Finn, where I am developing an offline RL algorithm for heterogeneous datasets that don't have reward labels. I previously conducted research in the Stanford Intelligent Systems Laboratory (SISL) under Dr. Mykel Kochenderfer, where I conducted research on using RL for autonomous vehicle safety and control. I also worked as a research intern on a collaborative project between SISL and the Johns Hopkins University Applied Physics Laboratory (APL)  on developing RL based methods to defend industrial control systems against cyber attacks.
+Currently, I am conducting research in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab under Dr. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"}, where I am developing an offline RL algorithm for heterogeneous datasets that don't have reward labels. I previously conducted research in the Stanford Intelligent Systems Laboratory ([SISL](https://sisl.stanford.edu/){:target="_blank"}) under Dr. [Mykel Kochenderfer](https://mykel.kochenderfer.com/){:target="_blank"}, where I conducted research on using RL for autonomous vehicle safety and control. I also worked as a research intern on a collaborative project between SISL and the Johns Hopkins University Applied Physics Laboratory ([APL](https://www.jhuapl.edu/){:target="_blank"})  on developing RL based methods to defend industrial control systems against cyber attacks.
 
 <html>
  <head>
@@ -102,9 +102,23 @@ Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, 
 **“Obstacle Avoidance Using a Monocular Camera,” AIAA SciTech Forum, 2021.**
 {% include googleDrivePlayer.html id=page.scitechVideoId %}
 
-<!-- <video muted width="500" controls>
-  <source src="./files/iros-video.mp4" type="video/mp4">
-</video> -->
-<!-- <video muted autoplay controls>
-    <source src="{{ site.my-media-path }}/myvideo.mp4" type="video/mp4">
-</video> -->
+<a name="Volunteer"> </a>
+## Volunteer Work
+
+#### East Palo Alto Stanford Academy ([EPASA](https://haas.stanford.edu/student-programs/education-partnerships/east-palo-alto-stanford-academy-epasa){:target="_blank"})
+*October 2018 – March 2020*
+
+*Volunteer Tutor*
+
+
+
+[EPASA](https://haas.stanford.edu/student-programs/education-partnerships/east-palo-alto-stanford-academy-epasa){:target="_blank"} is a program run through Stanford University in which undergraduate students tutor middle school students who attend school in East Palo Alto.
+As a volunteer tutor at EPASA, I tutored seventh and eighth grade students in math and English.
+
+#### Stanford 1st Ward Volunteer Tutoring Program
+*September 2017 – June 2019*
+
+*Volunteer Tutor*
+
+The Stanford 1st Ward Volunteer Tutoring Program is a program run through a local religious organization that provides free tutoring to K-12 students from around the South San Francisco Bay Area.
+As a volunteer tutor, I tutored students in math, reading, and English.
