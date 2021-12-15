@@ -6,21 +6,30 @@ layout: default
 
 irosVideoId: 1wag5m_uDBRPMmNiLkZLFNsktBMZdmMVH/preview
 scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
+
+irosYouTubeId: k-eM6Locyek
+scitechYouTubeId: qmoHyJFUxE0
 ---
-**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [CV](./files/CV.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
+**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_November_2021.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/> -->
-<img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="275"/>
+<!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="275"/> -->
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="250"/> -->
 
+<img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" align="left" width="275" style="margin: 0px 30px 0px 0px;" />
+
 I am an undergraduate and coterminal master's student at Stanford University studying Computer Science. I am heavily involved in artificial intelligence research and I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
-<!-- I am specifically interested in reinforcement learning.  -->
 My interests lie primarily within reinforcement learning (RL) research.
-<!-- Currently, my primary research interests lie in answering the following questions:
- -->
 I am especially fascinated with answering the following questions:
   - How can we make RL agents that can generalize quickly and efficiently to new tasks?
   - How can we make RL algorithms that leverage prior knowledge about a task during training instead of training from *tabula rasa?*
+<!-- <br clear="left"/> -->
+
+<!-- I am an undergraduate and coterminal master's student at Stanford University studying Computer Science. I am heavily involved in artificial intelligence research and I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
+My interests lie primarily within reinforcement learning (RL) research.
+I am especially fascinated with answering the following questions:
+  - How can we make RL agents that can generalize quickly and efficiently to new tasks?
+  - How can we make RL algorithms that leverage prior knowledge about a task during training instead of training from *tabula rasa?* -->
 
 Currently, I am conducting research in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab under Professor [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"}, where I am developing an offline RL algorithm for heterogeneous datasets that don't have reward labels. I previously conducted research in the Stanford Intelligent Systems Laboratory ([SISL](https://sisl.stanford.edu/){:target="_blank"}) under Professor [Mykel Kochenderfer](https://mykel.kochenderfer.com/){:target="_blank"}, where I conducted research on using RL for autonomous vehicle safety and control. I also worked as a research intern on a collaborative project between SISL and the Johns Hopkins University Applied Physics Laboratory ([APL](https://www.jhuapl.edu/){:target="_blank"})  on developing RL based methods to defend industrial control systems against cyber attacks.
 
@@ -85,7 +94,9 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 
 **Hatch, K.\*,** Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards." Learning for Dynamics & Control Conference (L4DC), 2022. &ensp; [PDF](./files/Offline_RL_without_Rewards.pdf){:target="_blank"}
 
-Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," USENIX Security Symposium, 2021. &ensp; [PDF](https://arxiv.org/abs/2111.02445){:target="_blank"}
+<!-- Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," USENIX Security Symposium, 2021. &ensp; [PDF](https://arxiv.org/abs/2111.02445){:target="_blank"} -->
+Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," International Conference on Dependable Systems and Networks (DSN'22), 2022. &ensp; [PDF](https://arxiv.org/abs/2111.02445){:target="_blank"}
+
 
 **\* denotes equal contribution**
 
@@ -94,7 +105,7 @@ Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, 
 
 <a name="iros_video"> </a>
 **"3D Radar Velocity Maps for Uncertain Dynamic Environments," IEEE International Conference on Intelligent Robots and Systems (IROS), 2021.**
-{% include googleDrivePlayer.html id=page.irosVideoId %}
+{% include youtubePlayer.html id=page.irosYouTubeId %}
 
 &nbsp;
 &nbsp;
@@ -102,7 +113,7 @@ Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, 
 
 <a name="scitech_video"> </a>
 **“Obstacle Avoidance Using a Monocular Camera,” AIAA SciTech Forum, 2021.**
-{% include googleDrivePlayer.html id=page.scitechVideoId %}
+{% include youtubePlayer.html id=page.scitechYouTubeId %}
 
 <a name="Volunteer"> </a>
 ## Volunteer Work
