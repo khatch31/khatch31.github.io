@@ -18,8 +18,10 @@ scitechYouTubeId: qmoHyJFUxE0
 
 <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" align="left" width="275" style="margin: 0px 30px 0px 0px;" />
 
-I am an undergraduate and coterminal master's student at Stanford University studying Computer Science. I am heavily involved in artificial intelligence research and I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
-My interests lie primarily within reinforcement learning (RL) research.
+I am an undergraduate and coterminal master's student at Stanford University studying Computer Science.
+<!-- I am heavily involved in artificial intelligence research and  -->
+I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
+My research interests lie primarily within reinforcement learning (RL).
 I am especially fascinated with answering the following questions:
   - How can we make RL agents that can generalize quickly and efficiently to new tasks?
   - How can we make RL algorithms that leverage prior knowledge about a task during training instead of training from *tabula rasa?*
@@ -83,8 +85,9 @@ Currently, I am conducting research in the Stanford [IRIS](https://irislab.stanf
 ## Publications
 
 #### Published/Accepted
+Mern, J., Krishnan, S., Yildiz, A., **Hatch, K.,** and Kochenderfer, M. J., "Interpretable Local Tree Surrogate Policies,"  The AAAI Workshop on Artificial Intelligence Safety 2022 (SafeAI), 2022. &ensp; [PDF](https://arxiv.org/abs/2109.08180){:target="_blank"}
 
-**Hatch, K.\*,**Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards," NeurIPS Offline RL Workshop, 2021
+**Hatch, K.\*,**Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards," NeurIPS Offline RL Workshop, 2021.
 
 Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar Velocity Maps for Uncertain Dynamic Environments," IEEE International Conference on Intelligent Robots and Systems (IROS), 2021. &ensp; [PDF](https://arxiv.org/abs/2107.11039){:target="_blank"} &ensp; &ensp; [Presentation](#iros_video)
 
