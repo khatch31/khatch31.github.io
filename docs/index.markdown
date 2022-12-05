@@ -10,7 +10,7 @@ scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
 irosYouTubeId: k-eM6Locyek
 scitechYouTubeId: qmoHyJFUxE0
 ---
-**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_October_2022.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
+**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_December_2022.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/> -->
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="275"/> -->
