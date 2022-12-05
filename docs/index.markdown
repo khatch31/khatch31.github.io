@@ -9,6 +9,8 @@ scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
 
 irosYouTubeId: k-eM6Locyek
 scitechYouTubeId: qmoHyJFUxE0
+neuripsWorkshop2022YouTubeId: Ft2bozofYM8
+
 ---
 **[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_December_2022.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
@@ -81,25 +83,29 @@ I previously conducted research in the Stanford Intelligent Systems Laboratory (
 <a name="Publications"> </a>
 ## Publications
 
+#### Under Review
+
+**Hatch, K. B.,** Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., ”Contrastive
+Example-Based Control,” *Learning for Dynamics & Control Conference (L4DC),* 2023. [PDF](//drive.google.com/file/d/1mLi1vZlqRcqxp89RHPAIH-gQC7lb7UTk/view?usp=sharing){:target="_blank"}
+
+Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. [Website](https://toto-benchmark.org/){:target="_blank"}
+
 #### Published/Accepted
 
-**Hatch, K. B.,** Shetty, S. J., Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., "Contrastive Example-Based Control," *NeurIPS 2022 Offline RL Workshop,* 2022. [PDF](https://openreview.net/forum?id=Q4ir4NzqOY){:target="_blank"}
-
-Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," *2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), IEEE,* 2022, pp. 28–36.
+Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," *International Conference on Dependable Systems and Networks (DSN'22),* 2022, pp. 28–36.
+&ensp; [PDF](https://arxiv.org/abs/2111.02445){:target="_blank"}
 
 Mern, J., Krishnan, S., Yildiz, A., **Hatch, K.,** and Kochenderfer, M. J., "Interpretable Local Tree Surrogate Policies,"  *The AAAI Workshop on Artificial Intelligence Safety 2022 (SafeAI),* 2022. &ensp; [PDF](https://arxiv.org/abs/2109.08180){:target="_blank"}
-
-**Hatch, K.\*,**Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards," *NeurIPS Offline RL Workshop,* 2021.
 
 Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar Velocity Maps for Uncertain Dynamic Environments," *IEEE International Conference on Intelligent Robots and Systems (IROS),* 2021. &ensp; [PDF](https://arxiv.org/abs/2107.11039){:target="_blank"} &ensp; &ensp; [Presentation](#iros_video)
 
 **Hatch, K.,** Mern, J., and Kochenderfer, M. J., "Obstacle Avoidance Using a Monocular Camera," *AIAA SciTech Forum,* 2021. &ensp; [PDF](https://arxiv.org/abs/2012.01608){:target="_blank"} &ensp; &ensp; [Presentation](#scitech_video)
 
-#### Under Review
+#### Workshop Papers
 
-Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. [Website](https://toto-benchmark.org/){:target="_blank"}
+**Hatch, K. B.,** Shetty, S. J., Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., "Contrastive Example-Based Control," *NeurIPS 2022 Offline RL and Deep RL Workshops,* 2022. [PDF](https://openreview.net/forum?id=Q4ir4NzqOY){:target="_blank"}
 
-
+**Hatch, K.\*,**Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards," *NeurIPS Offline RL Workshop,* 2021.
 
 <!-- **Hatch, K.\*,** Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards." Learning for Dynamics & Control Conference (L4DC), 2022. &ensp; [PDF](./files/Offline_RL_without_Rewards.pdf){:target="_blank"} -->
 
@@ -111,6 +117,16 @@ Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** 
 
 <a name="Presentations"> </a>
 ## Presentations
+
+<a name="iros_video"> </a>
+**"Offline Example-Based Control," NeurIPS Offline RL and Deep RL Workshops, 2022.**
+{% include youtubePlayer.html id=page.neuripsWorkshop2022YouTubeId %}
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 
 <a name="iros_video"> </a>
 **"3D Radar Velocity Maps for Uncertain Dynamic Environments," IEEE International Conference on Intelligent Robots and Systems (IROS), 2021.**
@@ -127,8 +143,11 @@ Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** 
 
 <a name="Education"> </a>
 ## Education
-#### Artificial Intelligence and Machine Learning Courses Taken
 
+#### Master's GPA: 4.11
+
+<!-- #### Artificial Intelligence, Machine Learning, and Other Relevant Coursework -->
+#### Relevant Coursework
 
 <html>
  <head>
@@ -191,7 +210,8 @@ Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** 
                 <li>CS 224W: Machine Learning with Graphs</li>
                 <li>CS 221: Artificial Intelligence: Principles and Techniques</li>
                 <li>CS 238: Decision Making Under Uncertainty</li>
-                <!-- <li>MATH 104: Applied Matrix Theory</li> -->
+                <li>MATH 104: Applied Matrix Theory</li>
+                <li>CS 110: Principles of Computer Systems</li>
               </ul>
             </p>
         </div>
@@ -213,7 +233,8 @@ Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** 
                 <li>A-</li>
                 <li>A</li>
                 <li>A</li>
-                <!-- <li>A</li> -->
+                <li>A</li>
+                <li>A</li>
               </ul>
             </p>
         </div>
