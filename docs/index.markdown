@@ -86,7 +86,7 @@ I previously conducted research in the Stanford Intelligent Systems Laboratory (
 #### Under Review
 
 **Hatch, K. B.,** Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., ”Contrastive
-Example-Based Control,” *Learning for Dynamics & Control Conference (L4DC),* 2023. [PDF](//drive.google.com/file/d/1mLi1vZlqRcqxp89RHPAIH-gQC7lb7UTk/view?usp=sharing){:target="_blank"}
+Example-Based Control,” *Learning for Dynamics & Control Conference (L4DC),* 2023. [PDF](//drive.google.com/file/d/1mLi1vZlqRcqxp89RHPAIH-gQC7lb7UTk/view?usp=sharing){:target="_blank"} [Presentation](#laeo_neurips_video)
 
 Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. [Website](https://toto-benchmark.org/){:target="_blank"}
 
@@ -103,7 +103,7 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 
 #### Workshop Papers
 
-**Hatch, K. B.,** Shetty, S. J., Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., "Contrastive Example-Based Control," *NeurIPS 2022 Offline RL and Deep RL Workshops,* 2022. [PDF](https://openreview.net/forum?id=Q4ir4NzqOY){:target="_blank"}
+**Hatch, K. B.,** Shetty, S. J., Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., "Contrastive Example-Based Control," *NeurIPS 2022 Offline RL and Deep RL Workshops,* 2022. [PDF](https://openreview.net/forum?id=Q4ir4NzqOY){:target="_blank"} [Presentation](#laeo_neurips_video)
 
 **Hatch, K.\*,**Yu, T.\*, Rafailov, R., and Finn, C., "Example-Based Offline Reinforcement Learning without Rewards," *NeurIPS Offline RL Workshop,* 2021.
 
@@ -118,7 +118,7 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 <a name="Presentations"> </a>
 ## Presentations
 
-<a name="iros_video"> </a>
+<a name="laeo_neurips_video"> </a>
 **"Offline Example-Based Control," NeurIPS Offline RL and Deep RL Workshops, 2022.**
 {% include youtubePlayer.html id=page.neuripsWorkshop2022YouTubeId %}
 
