@@ -144,7 +144,7 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 <a name="Education"> </a>
 ## Education
 
-#### Master's GPA: 4.11
+#### Master's GPA: 4.10
 
 <!-- #### Artificial Intelligence, Machine Learning, and Other Relevant Coursework -->
 #### Relevant Coursework
@@ -220,7 +220,8 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
             <h5>Grade</h5>
             <p>
               <ul>
-                <li>  <font size="-2"> <em>in progress</em> </font> </li>
+                <li>A</li>
+                <!-- <li>  <font size="-2"> <em>in progress</em> </font> </li> -->
                 <li>A</li>
                 <li>A+</li>
                 <li>A</li>
