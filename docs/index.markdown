@@ -91,11 +91,11 @@ Rafailov, R.\*, **Hatch, K. B.\***, Kolev, V., Martin, J., Phielipp, M., and Fin
 Fine-tuning for Model-Based Reinforcement Learning,” *International Conference on Machine Learning
 (ICML)*, 2023
 
+#### Published/Accepted
+
 <a name="laeo"> </a>
 **Hatch, K. B.,** Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., ”Contrastive
 Example-Based Control,” *Learning for Dynamics & Control Conference (L4DC),* 2023. [PDF](https://openreview.net/pdf?id=QFmjXoxyLR){:target="_blank"} (link to NeurIPS workshop version) [Presentation](#laeo_neurips_video)
-
-#### Published/Accepted
 
 Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. [Website](https://toto-benchmark.org/){:target="_blank"}
 
