@@ -12,7 +12,7 @@ scitechYouTubeId: qmoHyJFUxE0
 neuripsWorkshop2022YouTubeId: Ft2bozofYM8
 
 ---
-**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_February_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
+**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_March_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/> -->
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="275"/> -->
