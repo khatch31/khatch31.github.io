@@ -12,7 +12,7 @@ scitechYouTubeId: qmoHyJFUxE0
 neuripsWorkshop2022YouTubeId: Ft2bozofYM8
 
 ---
-**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_March_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
+**[Publications](#Publications) &ensp; &ensp; &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; &ensp; &ensp; [Coursework](#Education) &ensp; &ensp; &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_April_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; &ensp; [Volunteer Work](#Volunteer)**
 
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="200"/> -->
 <!-- <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" width="275"/> -->
@@ -154,7 +154,7 @@ Mern, J., Krishnan, S., Yildiz, A., **Hatch, K.,** and Kochenderfer, M. J., "Int
 <a name="Education"> </a>
 ## Education
 
-#### Master's GPA: 4.08
+#### Master's GPA: 4.03
 
 <!-- #### Artificial Intelligence, Machine Learning, and Other Relevant Coursework -->
 #### Relevant Coursework
@@ -209,6 +209,7 @@ Mern, J., Krishnan, S., Yildiz, A., **Hatch, K.,** and Kochenderfer, M. J., "Int
             <h5> Class </h5>
             <p>
               <ul>
+                <li>CS 228: Probabilistic Graphical Models: Principles and Techniques</li>
                 <li>CS 332: Advanced Survey of Reinforcement Learning</li>
                 <li>MS&E 338: Reinforcement Learning: Frontiers</li>
                 <li>CS 239: Advanced Topics in Sequential Decision Making</li>
@@ -230,6 +231,7 @@ Mern, J., Krishnan, S., Yildiz, A., **Hatch, K.,** and Kochenderfer, M. J., "Int
             <h5>Grade</h5>
             <p>
               <ul>
+                <li>A</li>
                 <li>A</li>
                 <!-- <li>  <font size="-2"> <em>in progress</em> </font> </li> -->
                 <li>A</li>
