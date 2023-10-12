@@ -156,11 +156,11 @@ Prior to starting at TRI, I was a master's student in the Computer Science Depar
 
 1. [D5RL](#d5rl): a simulated robotics benchmark to evaluate offline RL methods on visually diverse, realistic simulated robotics tasks. Co-first author on paper under review at the International Conference on Learning Representations (ICLR) 2024.
 2. [MOTO](#moto): a model-based RL method designed for efficient offline-to-online finetuning for vision-based manipulation tasks. Co-first author on paper in the Conference on Robot Learning (CoRL) 2023.
-3. [LAEO](#laeo): an offline reinforcement learning method using contrastive learning for data without reward labels. First author on paper in the Learning for Dynamics & Control Conference (L4DC) 2023 conference.
+3. [LAEO](#laeo): an offline reinforcement learning method using contrastive learning for data without reward labels. First author on paper in the Learning for Dynamics & Control Conference (L4DC) 2023.
 
 As an undergraduate student, I worked on research under Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/){:target="_blank"} in the Stanford Intelligent Systems Laboratory ([SISL](https://sisl.stanford.edu/){:target="_blank"}). I also interned at the Johns Hopkins University Applied Physics Laboratory ([APL](https://www.jhuapl.edu/){:target="_blank"}). My research focused on using machine learning and RL techniques to improve collision avoidance in autonomous vehicles and UAVs, as well as using RL to autonomously mitigate cybersecurity threats. I published two first/co-first author papers and one second author paper on this research. 
-1. A [method](#iros_paper) to learn 3D velocity maps from radar data for use by autonomous vehicles. Co-first author on paper in the IEEE International Conference on Intelligent Robots and Systems (IROS) 2021 conference.
-2. A [collision avoidance system](#scitech_paper) for autonomous drones using monocular vision and deep reinforcement learning. First author on paper in the American Institute of Aeronautics and Astronautics (AIAA) SciTech Forum 2021 conference.
+1. A [method](#iros_paper) to learn 3D velocity maps from radar data for use by autonomous vehicles. Co-first author on paper in the IEEE International Conference on Intelligent Robots and Systems (IROS) 2021.
+2. A [collision avoidance system](#scitech_paper) for autonomous drones using monocular vision and deep reinforcement learning. First author on paper in the American Institute of Aeronautics and Astronautics (AIAA) SciTech Forum 2021.
 3. An [RL-based method](#apl_paper) for autonomously responding to cybersecurity threats on industrial control systems. Second author on paper in the International Conference on Dependable Systems and Networks (DSN’22), 2022.
 
 
