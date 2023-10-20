@@ -16,9 +16,10 @@ scitechYouTubeId: qmoHyJFUxE0
 neuripsWorkshop2022YouTubeId: Ft2bozofYM8
 ---
 
-[kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)  
+
 <!-- **[Research](#Research) &ensp; &ensp; [Education](#Education) &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp;  [Publications](#Publications) &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; [Outreach](#Volunteer)**  -->
  **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
+ Email: [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)  
 
 <!-- **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; [Education](#Education) &ensp; [Publications](#Publications) &ensp; [Outreach](#Volunteer) &ensp; [Presentations](#Presentations) &ensp; [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)**   -->
  
