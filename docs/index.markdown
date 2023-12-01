@@ -18,7 +18,7 @@ neuripsWorkshop2022YouTubeId: Ft2bozofYM8
 
 
 <!-- **[Research](#Research) &ensp; &ensp; [Education](#Education) &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp;  [Publications](#Publications) &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; [Outreach](#Volunteer)**  -->
- **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
+ **[CV](./files/Kyle_Hatch_CV_December_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
  Email: [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)  
 
 <!-- **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; [Education](#Education) &ensp; [Publications](#Publications) &ensp; [Outreach](#Volunteer) &ensp; [Presentations](#Presentations) &ensp; [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)**   -->
@@ -32,9 +32,12 @@ I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics.
 My research interests lie primarily within robot learning and reinforcement learning (RL). 
 
 I am especially excited about exploring solutions to the following questions:
-How can we leverage video data--which exists on a massive scale on the Internet but does not contain action labels--for training robot policies?
-What changes do we need to make to current offline RL methods so that they scale to practical robot applications? 
-How can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected data without reward labels?
+How can we leverage foundation models that can reason about both visual and language information for robot learning?
+How can we utilize video data--which exists on a massive scale on the Internet but does not contain action labels--for training robot policies?
+<!-- What changes do we need to make to current offline RL methods so that they scale to practical robot applications?  -->
+<!-- How can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected data without reward labels?
+Can we develop self-supervised robot learning algorithms that can fine-tune foundation models on unstructured, unlabeled robot data? -->
+Can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected robot data? 
 
 I was extremely fortunate to work with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
 As a master's student, I also worked with Prof. [Ben Eysenbach](https://ben-eysenbach.github.io/){:target="_blank"}.
@@ -121,15 +124,23 @@ As an undergraduate student, I worked on research under Prof. [Mykel Kochenderfe
 <a name="Volunteer"> </a>
 ## Outreach
 
+#### Breakthrough Silicon Valley ([BTSV](https://breakthroughsv.org){:target="_blank"})
+*November 2023 – Present*
+
+*Volunteer Tutor*
+
+
+[Breakthrough Silicon Valley](https://breakthroughsv.org){:target="_blank"} is an organization that provides academic support to middle school and high school students who are on track to becoming first-generation college students. I primarily provide homework support to high school students with mathematics.
+
+
 #### East Palo Alto Stanford Academy ([EPASA](https://haas.stanford.edu/student-programs/education-partnerships/east-palo-alto-stanford-academy-epasa){:target="_blank"})
 *October 2018 – March 2020*
 
 *Volunteer Tutor*
 
 
-
 [EPASA](https://haas.stanford.edu/student-programs/education-partnerships/east-palo-alto-stanford-academy-epasa){:target="_blank"} is a program run through Stanford University in which undergraduate students tutor middle school students who attend school in East Palo Alto.
-As a volunteer tutor at EPASA, I tutored seventh and eighth grade students in math and English.
+I provided homework support to seventh and eighth grade students in math and English, and also helped them to develop effective study skills.
 
 #### Stanford 1st Ward Volunteer Tutoring Program
 *September 2017 – June 2019*
@@ -137,7 +148,7 @@ As a volunteer tutor at EPASA, I tutored seventh and eighth grade students in ma
 *Volunteer Tutor*
 
 The Stanford 1st Ward Volunteer Tutoring Program is a program run through a local religious organization that provides free tutoring to K-12 students from around the South San Francisco Bay Area.
-As a volunteer tutor, I tutored students in math, reading, and English.
+I provided homework support students in math, reading, and English.
 
 
 <a name="Presentations"> </a>
