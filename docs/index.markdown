@@ -74,7 +74,7 @@ GPA: 4.05    -->
 #### Published/Accepted
 <a name="moto"> </a>
 Rafailov, R.\*, **Hatch, K. B.\***, Kolev, V., Martin, J., Phielipp, M., and Finn, C., ”MOTO: Offline to Online
-Fine-tuning for Model-Based Reinforcement Learning,” *Conference on Robot Learning (CoRL)*, 2023. &ensp; [PDF](https://openreview.net/pdf?id=6Um8P8Fvyhl){:target="_blank"} &ensp; &ensp; [Website](https://sites.google.com/view/mo2o){:target="_blank"}
+Fine-tuning for Model-Based Reinforcement Learning,” *Conference on Robot Learning (CoRL)*, 2023. &ensp; [PDF](https://proceedings.mlr.press/v229/rafailov23a/rafailov23a.pdf){:target="_blank"} &ensp; &ensp; [Website](https://sites.google.com/view/mo2o){:target="_blank"}
 
 <a name="laeo"> </a>
 **Hatch, K. B.,** Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., ”Contrastive
