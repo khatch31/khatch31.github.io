@@ -18,7 +18,7 @@ neuripsWorkshop2022YouTubeId: Ft2bozofYM8
 
 
 <!-- **[Research](#Research) &ensp; &ensp; [Education](#Education) &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp;  [Publications](#Publications) &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; [Outreach](#Volunteer)**  -->
- **[CV](./files/Kyle_Hatch_CV_December_2023.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
+ **[CV](./files/Kyle_Hatch_CV_October_2024.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
  Email: [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)  
 
 <!-- **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; [Education](#Education) &ensp; [Publications](#Publications) &ensp; [Outreach](#Volunteer) &ensp; [Presentations](#Presentations) &ensp; [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)**   -->
@@ -27,22 +27,31 @@ neuripsWorkshop2022YouTubeId: Ft2bozofYM8
 <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" align="left" width="275" style="margin: 0px 30px 0px 0px;" />
 
 
-I am an AI Resident in the Machine Learning Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI). 
+I am an AI Resident in the Robotics Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI). 
 I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics. 
-My research interests lie primarily within robot learning and reinforcement learning (RL). 
+My research interests lie primarily within machine learning, robotics, and reinforcement learning (RL). 
+<!-- Within robotics, I am especially excited about using machine learning to allow robots to learn how to complete tasks by watching videos of humans. -->
+Within robotics, I am especially excited about training large-scale models on human video data from the Internet in order to endow robots with common sense reasoning abilities.
+I am also interested in using machine learning to help solve problems in healthcare and renewable energy. 
+Previously, I was a student at Stanford, where I studied Computer Science (B.S. with honors and M.S.).
 
-I am especially excited about exploring solutions to the following questions:
+ <!-- training large-scale models on human video data from the Internet in order to endow robots with common sense reasoning abilities.  -->
+
+
+
+
+<!-- I am especially excited about exploring solutions to the following questions:
 How can we leverage foundation models that can reason about both visual and language information for robot learning?
 How can we utilize video data--which exists on a massive scale on the Internet but does not contain action labels--for training robot policies?
-<!-- What changes do we need to make to current offline RL methods so that they scale to practical robot applications?  -->
-<!-- How can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected data without reward labels?
-Can we develop self-supervised robot learning algorithms that can fine-tune foundation models on unstructured, unlabeled robot data? -->
-Can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected robot data? 
+Can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected robot data?  -->
 
-I was extremely fortunate to work with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
-As a master's student, I also worked with Prof. [Ben Eysenbach](https://ben-eysenbach.github.io/){:target="_blank"}.
-I first started research as an undergraduate student with Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/){:target="_blank"} in the Stanford Intelligent Systems Laboratory ([SISL](https://sisl.stanford.edu/){:target="_blank"}).
+I am extremely fortunate to have worked with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
+<!-- As a master's student, I also worked with Prof. [Ben Eysenbach](https://ben-eysenbach.github.io/){:target="_blank"}. -->
+I also worked with Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/){:target="_blank"} as an undergraduate student in the Stanford Intelligent Systems Laboratory ([SISL](https://sisl.stanford.edu/){:target="_blank"}).
 <!-- , and also completed a research internship at the Johns Hopkins University Applied Physics Laboratory ([APL](https://www.jhuapl.edu/){:target="_blank"}). -->
+
+
+In my free time, I enjoy backpacking in the mountains, playing soccer, and watching horror movies. 
 
 <a name="Education"> </a>
 ### Education  
@@ -72,6 +81,12 @@ GPA: 4.05    -->
 ## Publications
 
 #### Published/Accepted
+
+<a name="d5rl"> </a>
+Rafailov, R.\*, **Hatch, K. B.\***, Singh, A., Smith, L., Kumar, A., Kostrikov, I., Hansen-Estruch, P., Kolev, V.,
+Ball, P., Wu, J., Finn, C., and Levine, S., "D5RL: Diverse Datasets for Data-Driven Deep Reinforcement
+Learning,” *Reinforcement Learning Conference (RLC),* 2024. &ensp; [PDF](https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_305.pdf){:target="_blank"}
+
 <a name="moto"> </a>
 Rafailov, R.\*, **Hatch, K. B.\***, Kolev, V., Martin, J., Phielipp, M., and Finn, C., ”MOTO: Offline to Online
 Fine-tuning for Model-Based Reinforcement Learning,” *Conference on Robot Learning (CoRL)*, 2023. &ensp; [PDF](https://arxiv.org/abs/2401.03306){:target="_blank"} &ensp; &ensp; [Website](https://sites.google.com/view/mo2o){:target="_blank"}
@@ -80,10 +95,10 @@ Fine-tuning for Model-Based Reinforcement Learning,” *Conference on Robot Lear
 **Hatch, K. B.,** Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., ”Contrastive
 Example-Based Control,” *Learning for Dynamics & Control Conference (L4DC),* 2023. &ensp; [PDF](https://arxiv.org/abs/2307.13101){:target="_blank"} &ensp; &ensp; [Website](https://sites.google.com/view/laeo-rl){:target="_blank"} &ensp; &ensp; [Presentation (NeurIPS workshop version)](#laeo_neurips_video) 
 
-Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. &ensp; [Website](https://toto-benchmark.org/){:target="_blank"}
+Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. &ensp; [PDF](https://arxiv.org/abs/2306.00942){:target="_blank"} &ensp; &ensp;  [Website](https://toto-benchmark.org/){:target="_blank"} 
 
 <a name="apl_paper"> </a>
-Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," *International Conference on Dependable Systems and Networks (DSN'22),* 2022, pp. 28–36.
+Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," *2022 IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),* 2022, pp. 28–36.
 &ensp; [PDF](https://arxiv.org/abs/2111.02445){:target="_blank"}
 
 <a name="iros_paper"> </a>
@@ -93,11 +108,9 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 **Hatch, K.,** Mern, J., and Kochenderfer, M. J., "Obstacle Avoidance Using a Monocular Camera," *AIAA SciTech Forum,* 2021. &ensp; [PDF](https://arxiv.org/abs/2012.01608){:target="_blank"} &ensp; &ensp; [Presentation](#scitech_video)
 
 #### Under Review
-<a name="d5rl"> </a>
-Rafailov, R.\*, **Hatch, K. B.\***, Singh, A., Smith, L., Kumar, A., Kostrikov, I., Hansen-Estruch, P., Kolev, V.,
-Ball, P., Wu, J., Finn, C., and Levine, S., "D5RL: Diverse Datasets for Data-Driven Deep Reinforcement
-Learning,” International Conference on Learning Representations (ICLR), 2024.
 
+<a name="scitech_paper"> </a>
+**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *2025 IEEE International Conference on Robotics and Automation (ICRA),* 2025.
 
 
 
@@ -125,7 +138,7 @@ As an undergraduate student, I worked on research under Prof. [Mykel Kochenderfe
 ## Outreach
 
 #### Breakthrough Silicon Valley ([BTSV](https://breakthroughsv.org){:target="_blank"})
-*November 2023 – Present*
+*November 2023 – April 2024*
 
 *Volunteer Tutor*
 
