@@ -14,6 +14,7 @@ scitechVideoId: 1uBUFSIgVYbPKJCdrHyqZY6C_G0I2rYps/preview
 irosYouTubeId: k-eM6Locyek
 scitechYouTubeId: qmoHyJFUxE0
 neuripsWorkshop2022YouTubeId: Ft2bozofYM8
+ghilglueYouTubeId: 3z8n1PWBFEA
 ---
 
 
@@ -109,8 +110,8 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 
 #### Under Review
 
-<a name="scitech_paper"> </a>
-**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *2025 IEEE International Conference on Robotics and Automation (ICRA),* 2025.
+<a name="ghilglue"> </a>
+**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *2025 IEEE International Conference on Robotics and Automation (ICRA),* 2025. &ensp; [PDF](https://arxiv.org/abs/2410.20018){:target="_blank"} &ensp; &ensp; [Website](https://ghil-glue.github.io/){:target="_blank"} &ensp; &ensp; [Presentation](#ghilglue_video) 
 
 
 
@@ -169,6 +170,15 @@ I provided homework support students in math, reading, and English.
 
 <!-- <details open>
   <summary>Collapse</summary> -->
+
+
+<a name="ghilglue_video"> </a>
+**"GHIL-Glue: Hierarchical Control with Filtered Subgoal Images"**
+{% include youtubePlayer.html id=page.ghilglueYouTubeId %}
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 <a name="laeo_neurips_video"> </a>
 **"Offline Example-Based Control," NeurIPS Offline RL and Deep RL Workshops, 2022.**
