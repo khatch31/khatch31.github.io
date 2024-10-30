@@ -31,12 +31,9 @@ ghilglueYouTubeId: 3z8n1PWBFEA
 I am an AI Resident in the Robotics Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI). 
 I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics. 
 My research interests lie primarily within machine learning, robotics, and reinforcement learning (RL). 
-<!-- Within robotics, I am especially excited about using machine learning to allow robots to learn how to complete tasks by watching videos of humans. -->
-Within robotics, I am especially excited about training large-scale models on human video data from the Internet in order to endow robots with common sense reasoning abilities.
+Within robotics, I am especially excited about training large-scale models on human video data from the Internet in order to provide robots with common sense reasoning abilities.
 I am also interested in using machine learning to help solve problems in healthcare and renewable energy. 
 Previously, I was a student at Stanford, where I studied Computer Science (B.S. with honors and M.S.).
-
- <!-- training large-scale models on human video data from the Internet in order to endow robots with common sense reasoning abilities.  -->
 
 
 
