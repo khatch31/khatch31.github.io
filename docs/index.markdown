@@ -19,7 +19,7 @@ ghilglueYouTubeId: 3z8n1PWBFEA
 
 
 <!-- **[Research](#Research) &ensp; &ensp; [Education](#Education) &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp;  [Publications](#Publications) &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; [Outreach](#Volunteer)**  -->
- **[CV](./files/Kyle_Hatch_CV_October_2024.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
+ **[CV](./files/Kyle_Hatch_CV.pdf){:target="_blank"} &ensp; &ensp; &ensp; [Education](#Education) &ensp; &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; &ensp; [Presentations](#Presentations)**  
  Email: [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)  
 
 <!-- **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; [Education](#Education) &ensp; [Publications](#Publications) &ensp; [Outreach](#Volunteer) &ensp; [Presentations](#Presentations) &ensp; [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)**   -->
@@ -79,6 +79,10 @@ GPA: 4.05    -->
 ## Publications
 
 #### Published/Accepted
+
+<a name="cwm"> </a>
+Rafailov, R.\*, Kolev, V.\*,  **Hatch, K. B.**, Wu, J., and Finn, C., ”Efficient Imitation Learning with Conservative World Models,” *Learning for Dynamics & Control Conference (L4DC),* 2024. &ensp; [PDF](https://arxiv.org/abs/2405.13193){:target="_blank"}
+
 
 <a name="d5rl"> </a>
 Rafailov, R.\*, **Hatch, K. B.\***, Singh, A., Smith, L., Kumar, A., Kostrikov, I., Hansen-Estruch, P., Kolev, V.,
