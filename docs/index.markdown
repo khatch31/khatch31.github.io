@@ -62,7 +62,6 @@ In my free time, I enjoy backpacking in the mountains, playing soccer, and watch
 Graduated: June 2023   
 Artificial Intelligence Track
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-GPA: 4.05   
 Coterminal Master’s Program  
 
 **Stanford University**
@@ -71,8 +70,6 @@ Coterminal Master’s Program
 *B.S. in Computer Science with honors*&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &nbsp;
 Graduated: June 2022   
 Artificial Intelligence Track
-<!-- &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
-GPA: 4.05    -->   
 
 
 <a name="Publications"> </a>
