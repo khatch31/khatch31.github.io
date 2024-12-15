@@ -96,10 +96,10 @@ Fine-tuning for Model-Based Reinforcement Learning,” *Conference on Robot Lear
 **Hatch, K. B.,** Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., ”Contrastive
 Example-Based Control,” *Learning for Dynamics & Control Conference (L4DC),* 2023. &ensp; [PDF](https://arxiv.org/abs/2307.13101){:target="_blank"} &ensp; &ensp; [Website](https://sites.google.com/view/laeo-rl){:target="_blank"} &ensp; &ensp; [Presentation (NeurIPS workshop version)](#laeo_neurips_video) 
 
-Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *2023 IEEE International Conference on Robotics and Automation (ICRA),* 2023. &ensp; [PDF](https://arxiv.org/abs/2306.00942){:target="_blank"} &ensp; &ensp;  [Website](https://toto-benchmark.org/){:target="_blank"} 
+Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., **Hatch, K. B.,** Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A., “Train Offline, Test Online: A Real Robot Learning Benchmark,” *IEEE International Conference on Robotics and Automation (ICRA),* 2023. &ensp; [PDF](https://arxiv.org/abs/2306.00942){:target="_blank"} &ensp; &ensp;  [Website](https://toto-benchmark.org/){:target="_blank"} 
 
 <a name="apl_paper"> </a>
-Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," *2022 IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),* 2022, pp. 28–36.
+Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., "Autonomous Attack Mitigation for Industrial Control Systems," *IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),* 2022, pp. 28–36.
 &ensp; [PDF](https://arxiv.org/abs/2111.02445){:target="_blank"}
 
 <a name="iros_paper"> </a>
@@ -111,7 +111,7 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 #### Under Review
 
 <a name="ghilglue"> </a>
-**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *2025 IEEE International Conference on Robotics and Automation (ICRA),* 2025. &ensp; [PDF](https://arxiv.org/abs/2410.20018){:target="_blank"} &ensp; &ensp; [Website](https://ghil-glue.github.io/){:target="_blank"} &ensp; &ensp; [Presentation](#ghilglue_video) 
+**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *IEEE International Conference on Robotics and Automation (ICRA),* 2025. &ensp; [PDF](https://arxiv.org/abs/2410.20018){:target="_blank"} &ensp; &ensp; [Website](https://ghil-glue.github.io/){:target="_blank"} &ensp; &ensp; [Presentation](#ghilglue_video) 
 
 
 
