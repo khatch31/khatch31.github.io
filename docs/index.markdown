@@ -75,9 +75,13 @@ Artificial Intelligence Track
 <a name="Publications"> </a>
 ## Publications
 
-For a complete list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=ECrCBgQAAAAJ&hl=en){:target="_blank"}. 
+For a complete list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=ECrCBgQAAAAJ&hl=en){:target="_blank"} profile. 
 
 #### Published/Accepted
+
+<a name="ghilglue"> </a>
+**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *IEEE International Conference on Robotics and Automation (ICRA),* 2025. &ensp; [PDF](https://arxiv.org/abs/2410.20018){:target="_blank"} &ensp; &ensp; [Website](https://ghil-glue.github.io/){:target="_blank"} &ensp; &ensp; [Presentation](#ghilglue_video) 
+
 
 <a name="cwm"> </a>
 Rafailov, R.\*, Kolev, V.\*,  **Hatch, K. B.**, Wu, J., and Finn, C., ”Efficient Imitation Learning with Conservative World Models,” *Learning for Dynamics & Control Conference (L4DC),* 2024. &ensp; [PDF](https://arxiv.org/abs/2405.13193){:target="_blank"}
@@ -108,10 +112,8 @@ Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar
 <a name="scitech_paper"> </a>
 **Hatch, K.,** Mern, J., and Kochenderfer, M. J., "Obstacle Avoidance Using a Monocular Camera," *AIAA SciTech Forum,* 2021. &ensp; [PDF](https://arxiv.org/abs/2012.01608){:target="_blank"} &ensp; &ensp; [Presentation](#scitech_video)
 
-#### Under Review
+<!-- #### Under Review -->
 
-<a name="ghilglue"> </a>
-**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *IEEE International Conference on Robotics and Automation (ICRA),* 2025. &ensp; [PDF](https://arxiv.org/abs/2410.20018){:target="_blank"} &ensp; &ensp; [Website](https://ghil-glue.github.io/){:target="_blank"} &ensp; &ensp; [Presentation](#ghilglue_video) 
 
 
 
