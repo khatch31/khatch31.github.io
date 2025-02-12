@@ -80,10 +80,132 @@ For a complete list of publications, please see my [Google Scholar](https://scho
 #### Published/Accepted
 
 <a name="ghilglue"> </a>
-**Hatch, K.,**, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," *IEEE International Conference on Robotics and Automation (ICRA),* 2025. &ensp; [PDF](https://arxiv.org/abs/2410.20018){:target="_blank"} &ensp; &ensp; [Website](https://ghil-glue.github.io/){:target="_blank"} &ensp; &ensp; [Presentation](#ghilglue_video) 
+<div style="display: flex; align-items: center;">
+    <img src="./files/ghil-glue.gif" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+      <strong>Hatch, K.,</strong>, Balakrishna, A., Mees, O., Nair, S., Wulfe, B., Itkina, M., Eysenbach, B., Levine, S., Kollar, T., and Burchfiel, B., 
+      "GHIL-Glue: Hierarchical Control with Filtered Subgoal Images," 
+      <em>IEEE International Conference on Robotics and Automation (ICRA),</em> 2025.
+      &ensp; 
+      <a href="https://arxiv.org/abs/2410.20018" target="_blank">PDF</a> 
+      &ensp; &ensp; 
+      <a href="https://ghil-glue.github.io/" target="_blank">Website</a> 
+      &ensp; &ensp; 
+      <a href="#ghilglue_video">Presentation</a>
+  </p>
+</div>
 
 
 <a name="cwm"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/cwm.png" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        Rafailov, R.<sup>*</sup>, Kolev, V.<sup>*</sup>, <strong>Hatch, K. B.</strong>, Wu, J., and Finn, C., 
+        ”Efficient Imitation Learning with Conservative World Models,” 
+        <em>Learning for Dynamics & Control Conference (L4DC),</em> 2024.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2405.13193" target="_blank">PDF</a>
+    </p>
+</div>
+
+<a name="d5rl"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/d5rl.png" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        Rafailov, R.<sup>*</sup>, <strong>Hatch, K. B.<sup>*</sup></strong>, Singh, A., Smith, L., Kumar, A., Kostrikov, I., 
+        Hansen-Estruch, P., Kolev, V., Ball, P., Wu, J., Finn, C., and Levine, S., 
+        "D5RL: Diverse Datasets for Data-Driven Deep Reinforcement Learning,” 
+        <em>Reinforcement Learning Conference (RLC),</em> 2024.
+        &ensp; 
+        <a href="https://rlj.cs.umass.edu/2024/papers/RLJ_RLC_2024_305.pdf" target="_blank">PDF</a>
+    </p>
+</div>
+
+<a name="moto"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/moto.gif" alt="Image Description" height="100" style="margin-right: 10px;">
+    <p>
+        Rafailov, R.<sup>*</sup>, <strong>Hatch, K. B.<sup>*</sup></strong>, Kolev, V., Martin, J., Phielipp, M., and Finn, C., 
+        ”MOTO: Offline to Online Fine-tuning for Model-Based Reinforcement Learning,” 
+        <em>Conference on Robot Learning (CoRL),</em> 2023.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2401.03306" target="_blank">PDF</a>
+        &ensp; &ensp; 
+        <a href="https://sites.google.com/view/mo2o" target="_blank">Website</a>
+    </p>
+</div>
+
+<a name="laeo"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/laeo.png" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        <strong>Hatch, K. B.,</strong> Eysenbach, B., Yu, T., Rafailov, R., Salakhutdinov, R., Levine, S., and Finn, C., 
+        ”Contrastive Example-Based Control,” 
+        <em>Learning for Dynamics & Control Conference (L4DC),</em> 2023.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2307.13101" target="_blank">PDF</a>
+        &ensp; &ensp; 
+        <a href="https://sites.google.com/view/laeo-rl" target="_blank">Website</a>
+        &ensp; &ensp; 
+        <a href="#laeo_neurips_video">Presentation (NeurIPS workshop version)</a>
+    </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+    <img src="./files/toto.gif" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        Zhou, G., Dean, V., Srirama, M. K., Rajeswaran, A., Pari, J., <strong>Hatch, K. B.,</strong> Jain, A., Yu, T., Abbeel, P., Pinto, L., Finn, C., and Gupta, A.,
+        “Train Offline, Test Online: A Real Robot Learning Benchmark,” 
+        <em>IEEE International Conference on Robotics and Automation (ICRA),</em> 2023.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2306.00942" target="_blank">PDF</a>
+        &ensp; &ensp;  
+        <a href="https://toto-benchmark.org/" target="_blank">Website</a>
+    </p>
+</div>
+
+<a name="apl_paper"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/apl.png" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        Mern, J., <strong>Hatch, K.,</strong> Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, M. J., 
+        "Autonomous Attack Mitigation for Industrial Control Systems," 
+        <em>IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W),</em> 2022, pp. 28–36.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2111.02445" target="_blank">PDF</a>
+    </p>
+</div>
+
+<a name="iros_paper"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/iros.png" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        Senanayake, R.<sup>*</sup>, <strong>Hatch, K.<sup>*</sup></strong>, Zheng, J., and Kochenderfer, M. J., 
+        "3D Radar Velocity Maps for Uncertain Dynamic Environments," 
+        <em>IEEE International Conference on Intelligent Robots and Systems (IROS),</em> 2021.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2107.11039" target="_blank">PDF</a>
+        &ensp; &ensp; 
+        <a href="#iros_video">Presentation</a>
+    </p>
+</div>
+
+<a name="scitech_paper"> </a>
+<div style="display: flex; align-items: center;">
+    <img src="./files/scitech.png" alt="Image Description" width="100" style="margin-right: 10px;">
+    <p>
+        <strong>Hatch, K.,</strong> Mern, J., and Kochenderfer, M. J., 
+        "Obstacle Avoidance Using a Monocular Camera," 
+        <em>AIAA SciTech Forum,</em> 2021.
+        &ensp; 
+        <a href="https://arxiv.org/abs/2012.01608" target="_blank">PDF</a>
+        &ensp; &ensp; 
+        <a href="#scitech_video">Presentation</a>
+    </p>
+</div>
+
+
+<!-- <a name="cwm"> </a>
 Rafailov, R.\*, Kolev, V.\*,  **Hatch, K. B.**, Wu, J., and Finn, C., ”Efficient Imitation Learning with Conservative World Models,” *Learning for Dynamics & Control Conference (L4DC),* 2024. &ensp; [PDF](https://arxiv.org/abs/2405.13193){:target="_blank"}
 
 
@@ -110,7 +232,7 @@ Mern, J., **Hatch, K.,** Silva, R., Hickert, C., Sookoor, T., and Kochenderfer, 
 Senanayake, R.\*, **Hatch, K.\*,** Zheng, J., and Kochenderfer, M. J., "3D Radar Velocity Maps for Uncertain Dynamic Environments," *IEEE International Conference on Intelligent Robots and Systems (IROS),* 2021. &ensp; [PDF](https://arxiv.org/abs/2107.11039){:target="_blank"} &ensp; &ensp; [Presentation](#iros_video)
 
 <a name="scitech_paper"> </a>
-**Hatch, K.,** Mern, J., and Kochenderfer, M. J., "Obstacle Avoidance Using a Monocular Camera," *AIAA SciTech Forum,* 2021. &ensp; [PDF](https://arxiv.org/abs/2012.01608){:target="_blank"} &ensp; &ensp; [Presentation](#scitech_video)
+**Hatch, K.,** Mern, J., and Kochenderfer, M. J., "Obstacle Avoidance Using a Monocular Camera," *AIAA SciTech Forum,* 2021. &ensp; [PDF](https://arxiv.org/abs/2012.01608){:target="_blank"} &ensp; &ensp; [Presentation](#scitech_video) -->
 
 <!-- #### Under Review -->
 
