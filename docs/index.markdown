@@ -20,7 +20,7 @@ ghilglueYouTubeId: 3z8n1PWBFEA
 
 <!-- **[Research](#Research) &ensp; &ensp; [Education](#Education) &ensp; &ensp; [CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; &ensp;  [Publications](#Publications) &ensp; &ensp; [Presentations](#Presentations) &ensp; &ensp; [Outreach](#Volunteer)**  -->
  **[CV](./files/Kyle_Hatch_CV.pdf){:target="_blank"} &ensp; &ensp; [Education](#Education) &ensp; &ensp; [Publications](#Publications) &ensp; &ensp; [Google Scholar](https://scholar.google.com/citations?user=ECrCBgQAAAAJ&hl=en){:target="_blank"} &ensp; &ensp; [Outreach](#Volunteer) &ensp; &ensp; [Presentations](#Presentations)**  
- Email: [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)  
+ Email: kbhatch \[at\] usc \[dot\] edu
 
 <!-- **[CV](./files/Kyle_Hatch_CV_October_2023.pdf){:target="_blank"} &ensp; [Education](#Education) &ensp; [Publications](#Publications) &ensp; [Outreach](#Volunteer) &ensp; [Presentations](#Presentations) &ensp; [kyle.hatch@tri.global](mailto:kyle.hatch@tri.global)**   -->
  
