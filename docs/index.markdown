@@ -32,9 +32,9 @@ I am a first-year PhD student at the
 University of Southern California (USC) co-advised by 
 [Yue Wang](https://yuewang.xyz/){:target="_blank"} and [Daniel Seita](https://danielseita.github.io/){:target="_blank"}. 
 My research interests lie primarily within machine learning, robotics, and reinforcement learning (RL). 
-These days, I am especially excited about training large-scale models on human video data from the Internet in order to provide robots with common sense reasoning capabilities.
+These days, I am especially excited about training large-scale models on human video data in order to provide robots with common sense reasoning capabilities.
 Previously, I was an AI Resident in the Large Behavior Models (LBM) Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI).
-Before that, I studied computer science at Stanford (B.S. with honors and M.S.).
+Before that, I studied computer science at Stanford University (B.S. with honors and M.S.).
 
 
 I am extremely fortunate to have worked with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
