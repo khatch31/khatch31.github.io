@@ -28,20 +28,14 @@ ghilglueYouTubeId: 3z8n1PWBFEA
 <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" align="left" width="275" style="margin: 0px 30px 0px 0px;" />
 
 
-I am an AI Resident in the Large Behavior Models (LBM) Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI). 
-I plan to pursue a PhD in Computer Science, Machine Learning, or Robotics. 
+I am a first-year PhD student at the 
+University of Southern California (USC) co-advised by 
+[Yue Wang](https://yuewang.xyz/){:target="_blank"} and [Daniel Seita](https://danielseita.github.io/){:target="_blank"}. 
 My research interests lie primarily within machine learning, robotics, and reinforcement learning (RL). 
-Within robotics, I am especially excited about training large-scale models on human video data from the Internet in order to provide robots with common sense reasoning capabilities.
-I am also interested in using machine learning to help solve problems in healthcare and renewable energy. 
-Previously, I was a student at Stanford, where I studied Computer Science (B.S. with honors and M.S.).
+These days, I am especially excited about training large-scale models on human video data from the Internet in order to provide robots with common sense reasoning capabilities.
+Previously, I was an AI Resident in the Large Behavior Models (LBM) Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI).
+Before that, I studied computer science at Stanford (B.S. with honors and M.S.).
 
-
-
-
-<!-- I am especially excited about exploring solutions to the following questions:
-How can we leverage foundation models that can reason about both visual and language information for robot learning?
-How can we utilize video data--which exists on a massive scale on the Internet but does not contain action labels--for training robot policies?
-Can we use goal-conditioned/self-supervised RL to learn from random play data or autonomously collected robot data?  -->
 
 I am extremely fortunate to have worked with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
 <!-- As a master's student, I also worked with Prof. [Ben Eysenbach](https://ben-eysenbach.github.io/){:target="_blank"}. -->
@@ -58,7 +52,7 @@ In my free time, I enjoy backpacking in the mountains, playing soccer, and watch
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
 **Stanford, CA**  
 *M.S. in Computer Science*
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
 Graduated: June 2023   
 Artificial Intelligence Track
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;
