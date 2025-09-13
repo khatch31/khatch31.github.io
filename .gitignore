@@ -7,3 +7,8 @@ docs/_includes/.DS_Store
 docs/_posts/.DS_Store
 .remote-sync.json
 docs/.remote-sync.json
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
