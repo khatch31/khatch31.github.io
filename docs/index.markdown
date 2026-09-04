@@ -28,16 +28,16 @@ ghilglueYouTubeId: 3z8n1PWBFEA
 <img src="./files/j_tree_portrait_clipped_small.png" alt="drawing" align="left" width="275" style="margin: 0px 30px 0px 0px;" />
 
 
-I am a first-year PhD student at the 
+I am a second-year PhD student at the 
 University of Southern California (USC) co-advised by 
 [Yue Wang](https://yuewang.xyz/){:target="_blank"} and [Daniel Seita](https://danielseita.github.io/){:target="_blank"}. 
-My research interests lie primarily within machine learning, robotics, and reinforcement learning (RL). 
-These days, I am especially excited about using human video data to help train generalist robot agents.
+My research focuses on developing generalist robot agents that use AI to understand and interact with the physical world.
+I am especially excited about using world models, reward learning methods, and reinforcement learning (RL) to fine-tune vision-language-action models (VLAs) and world action models (WAMs) to learn from their own experience.
 Previously, I was an AI Resident in the Large Behavior Models (LBM) Division at the [Toyota Research Institute](https://www.tri.global/){:target="_blank"} (TRI).
 Before that, I studied computer science at Stanford University (B.S. with honors and M.S.).
 
 
-I am extremely fortunate to have worked with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
+I am fortunate to have worked with many wonderful mentors during my time as a master's and undergraduate student. I worked with Prof. [Chelsea Finn](https://ai.stanford.edu/~cbfinn/){:target="_blank"} in the Stanford [IRIS](https://irislab.stanford.edu/){:target="_blank"} Lab as an undergraduate and master's student. 
 <!-- As a master's student, I also worked with Prof. [Ben Eysenbach](https://ben-eysenbach.github.io/){:target="_blank"}. -->
 I also worked with Prof. [Mykel Kochenderfer](https://mykel.kochenderfer.com/){:target="_blank"} as an undergraduate student in the Stanford Intelligent Systems Laboratory ([SISL](https://sisl.stanford.edu/){:target="_blank"}).
 
@@ -63,6 +63,11 @@ Coterminal Master’s Program
 *B.S. in Computer Science with honors*&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &nbsp;
 Graduated: June 2022   
 Artificial Intelligence Track -->
+
+**University of Southern California**<br>
+*PhD in Computer Science*<br>
+Expected graduation: May 2030<br>
+Co-advisors: Yue Wang, Daniel Seita
 
 **Stanford University**<br>
 *M.S. in Computer Science*<br>

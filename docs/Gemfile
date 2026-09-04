@@ -2,5 +2,12 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 gem "webrick", "~> 1.8"   # needed for local serve with older Jekyll
+# formerly stdlib, no longer default gems on modern Ruby
 gem "csv"
 gem "logger"
+gem "bigdecimal"
+gem "base64"
+gem "ostruct"
+gem "abbrev"
+gem "mutex_m"
+gem "benchmark"
